@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/anonymous/the-pearl/sophie-jewett</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-04-17T20:24:10Z</dc:date>
+		<meta property="dcterms:modified">2026-04-17T20:24:10Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -33,16 +33,16 @@
 		<meta property="authority" refines="#subject-1">LCHS</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="se:subject">Poetry</meta>
-		<dc:description id="description">A father is heartbroken after losing his little daughter, whom he thinks of as a beautiful pearl he can never get back.</dc:description>
+		<dc:description id="description">A father is heartbroken after losing his young daughter, whom he thinks of as a beautiful pearl he can never get back.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;A father is heartbroken after losing his little daughter, whom he thinks of as a beautiful pearl he can never get back. One day, while grieving in a garden, he falls asleep and dreams of a strange, perfect world where he meets her again—only now she appears as a glowing, peaceful young woman in heaven. She gently tries to comfort him, explaining that she is safe and happy with God, and that her place there isn’t something she earned but was given through divine love. The father desperately wants to be with her again, but he struggles to fully understand and accept what she’s saying. When he tries to cross a river to reach her, the dream suddenly ends, and he wakes up.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;The Pearl&lt;/i&gt; was written in the late 14th century by the unnamed Gawain Poet, the same author believed to have written &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/anonymous/sir-gawain-and-the-green-knight/s-o-andrew"&gt;Sir Gawain and the Green Knight&lt;/a&gt;&lt;/i&gt;. It is a Middle English poem that reflects strong Christian beliefs, especially ideas about grief, salvation, and divine grace, which were central to medieval life. The poem is also part of the “dream vision” tradition, where a narrator falls asleep and experiences a symbolic dream that reveals deeper spiritual truths.&lt;/p&gt;
+			&lt;p&gt;A father is heartbroken after losing his young daughter, whom he thinks of as a beautiful pearl he can never get back. One day, while grieving in a garden, he falls asleep and dreams of a strange, perfect world where he meets her again—only now she appears as a glowing, peaceful young woman in heaven. She tries to comfort him, explaining that she’s safe and happy with God, and that her place there isn’t something she earned but rather was given through divine love. The father desperately wants to be with her again, but he struggles to fully understand and accept what she’s saying. When he tries to cross a river to reach her, he suddenly awakes.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Pearl&lt;/i&gt; was written in the late 14th century by the unnamed Gawain Poet, the same author believed to have written &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/anonymous/sir-gawain-and-the-green-knight/s-o-andrew"&gt;Sir Gawain and the Green Knight&lt;/a&gt;&lt;/i&gt;. It’s a Middle English poem that reflects strong Christian beliefs, especially grief, salvation, and divine grace, which were central themes of medieval life. The poem is part of the “dream vision” tradition, where a narrator falls asleep and experiences a symbolic dream that reveals deeper spiritual truths.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/13211</dc:source>
 		<dc:source>https://archive.org/details/pearlmiddleengli00jewe</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">9242</meta>
+		<meta property="se:reading-ease.flesch">69.04</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Pearl</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anonymous_the-pearl_sophie-jewett</meta>
 		<dc:creator id="author">Anonymous</dc:creator>
@@ -81,6 +81,11 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">David Reimer</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Reimer, David</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://github.com/dajare</meta>
+		<meta property="se:url.authority.nacoaf" refines="#producer-2">http://id.loc.gov/authorities/names/n92075987</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
